@@ -65,6 +65,72 @@
                     "lane": 8
                 }
             ]
+        },
+        "freestyle-men-100": {
+            "title": "100m Freestyle Men",
+            "location": "Rio de Janeiro/BRA",
+            "date": "2016-08-10",
+            "points": [
+                {
+                    "position": 1,
+                    "team": "AUS",
+                    "name": "Kyle Chalmers",
+                    "time": "00:47.58",
+                    "lane": 5
+                },
+                {
+                    "position": 2,
+                    "team": "BEL",
+                    "name": "Peter Timmers",
+                    "time": "00:47.80",
+                    "lane": 7,
+                    "notes": ["NR"]
+                },
+                {
+                    "position": 3,
+                    "team": "USA",
+                    "name": "Nathan Adrian",
+                    "time": "00:47.85",
+                    "lane": 4
+                },
+                {
+                    "position": 4,
+                    "team": "CAN",
+                    "name": "Santo Condorelli",
+                    "time": "00:47.88",
+                    "lane": 6
+                },
+                {
+                    "position": 5,
+                    "team": "GBR",
+                    "name": "Ducan Scott",
+                    "time": "00:48.01",
+                    "lane": 1,
+                    "notes": ["NR"]
+                },
+                {
+                    "position": 6,
+                    "team": "USA",
+                    "name": "Caeleb Dressel",
+                    "time": "00:48.02",
+                    "lane": 2
+                },
+                {
+                    "position": 7,
+                    "team": "AUS",
+                    "name": "Cameron McEvoy",
+                    "time": "00:48.12",
+                    "lane": 7
+                },
+                {
+                    "position": 8,
+                    "team": "BRA",
+                    "name": "Marcelo Chierighini",
+                    "time": "00:48.41",
+                    "lane": 8
+                }
+                
+            ]
         }
     }
 }
